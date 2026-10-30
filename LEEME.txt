@@ -1,0 +1,6 @@
+CÉSAR APONTE PHOTOGRAPHY — PROPUESTA ALMUERZO DE CAMARADERÍA
+
+Abra index.html para visualizar la web.
+La música está incluida en assets/musica-ambiental.mp3.
+La página intenta reproducirla automáticamente al abrir. Algunos navegadores bloquean la reproducción automática con sonido: en ese caso, pulse «Activar música» o toque la página.
+Para publicar en GitHub Pages, suba index.html y la carpeta assets conservando su estructura.
